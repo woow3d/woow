@@ -1,0 +1,354 @@
+[{
+    "name": "Th",
+    "Type":"char",
+    "frame": 3,
+    "keyShap":"key",
+    "value":1.5,
+    "char":  ["th","ث","ذ","ظ","ض"]
+},
+{
+    "name": "TLDN",
+    "Type":"char",
+    "frame": 4,
+    "keyShap":"key",
+    "value":1.5,
+    "char":  ["t","l","d","n","ت","د","ط","ل"]
+}
+,
+{
+    "name": "SZ",
+    "Type":"char",
+    "frame":5,
+    "keyShap":"key",
+    "value":1.5,
+    "char":  ["s","s","س","ز","ش","ص"]
+},
+{
+    "name": "R",
+    "Type":"char",
+    "frame": 6,
+    "keyShap":"key",
+    "value":1.5,
+    "char":  ["r","ر"]
+},
+{
+    "name": "Oh",
+    "Type":"char",
+    "frame":7 ,
+    "keyShap":"key",
+    "value":1.5,
+    "char":  ["Oh"]
+},
+{
+    "name": "KGHNG",
+    "Type":"char",
+    "frame":8,
+    "keyShap":"key",
+    "value":1.5,
+    "char":  ["k","g","h","n","ك","ج","ن"]
+},
+{
+    "name": "Ih",
+    "Type":"char",
+    "frame":9 ,
+    "keyShap":"key",
+    "value":1.5,
+    "char":  ["ih"]
+},
+{
+    "name": "FV",
+    "Type":"char",
+    "frame": 10,
+    "keyShap":"key",
+    "value":1.5,
+    "char":  ["f","v","ف"]
+},
+{
+    "name": "Er",
+    "Type":"char",
+    "frame":11,
+    "keyShap":"key",
+    "value":1.5,
+    "char":  ["er"]
+},
+{
+    "name": "EE",
+    "Type":"char",
+    "frame":12,
+    "keyShap":"key",
+    "value":1.5,
+    "char":  ["e","ي"]
+},
+{
+    "name": "CHJ",
+    "Type":"char",
+    "frame": 13,
+    "keyShap":"key",
+    "value":1.5,
+    "char":  ["c","h","j"]
+},
+{
+    "name": "BMP",
+    "Type":"char",
+    "frame": 14,
+    "keyShap":"key",
+    "value":1.5,
+    "char":  ["b","m","p","ب","م"," "]
+},
+{
+    "name": "Ah",
+    "Type":"char",
+    "frame": 15,
+    "keyShap":"key",
+    "value":1.5,
+    "char": ["ah","ه"]
+},
+{
+    "name": "AE",
+    "Type":"char",
+    "frame":16,
+    "keyShap":"Teeth",
+    "value":0.135802,
+    "char":  ["a","e","h","أ","ع","ح","خ","غ","ق","ا"]
+},
+{
+    "name": "WOO",
+    "Type":"char",
+    "frame":17,
+    "keyShap":"key",
+    "value":1.5,
+    "char":  ["w","o","و"]
+},
+{
+"name": "Happy",
+"Type":"Emoji",
+"frame": 31,
+"keyShap":"key",
+"value":1.5,
+"char":"None"
+},
+{
+"name": "Sad",
+"Type":"Emoji",
+"frame": 32,
+"keyShap":"key",
+"value":1.5,
+"char":"None"
+},
+{
+"name": "Angry",
+"Type":"Emoji",
+"frame": 33,
+"keyShap":"key",
+"value":1.5,
+"char":"None"
+},
+{
+"name": "Surprised",
+"Type":"Emoji",
+"frame": 34,
+"keyShap":"key",
+"value":1.5,
+"char":"None"
+},
+{
+"name": "Scared",
+"Type":"Emoji",
+"frame": 35,
+"keyShap":"key",
+"value":1.5,
+"char":"None"
+},
+{
+"name": "Shocked",
+"Type":"Emoji",
+"frame": 36,
+"keyShap":"key",
+"value":1.5,
+"char":"None"
+},
+{
+"name": "Skeptical",
+"Type":"Emoji",
+"frame": 37,
+"keyShap":"key",
+"value":1.5,
+"char":"None"
+},
+{
+"name": "Embarrassed",
+"Type":"Emoji",
+"frame": 38,
+"keyShap":"key",
+"value":1.5,
+"char":"None"
+},
+{
+"name": "Confident",
+"Type":"Emoji",
+"frame": 39,
+"keyShap":"key",
+"value":1.5,
+"char":"None"
+},
+{
+"name": "Arrogant",
+"Type":"Emoji",
+"frame": 40,
+"keyShap":"key",
+"value":1.5,
+"char":"None"
+},
+{
+"name": "Confused",
+"Type":"Emoji",
+"frame": 41,
+"keyShap":"key",
+"value":1.5,
+"char":"None"
+},
+{
+"name": "Excited",
+"Type":"Emoji",
+"frame": 42,
+"keyShap":"key",
+"value":1.5,
+"char":"None"
+},
+{
+"name": "Disgusted",
+"Type":"Emoji",
+"frame": 43,
+"keyShap":"key",
+"value":1.5,
+"char":"None"
+},
+{
+"name": "Bored",
+"Type":"Emoji",
+"frame": 44,
+"keyShap":"key",
+"value":1.5,
+"char":"None"
+},
+{
+"name": "Tired",
+"Type":"Emoji",
+"frame": 45,
+"keyShap":"key",
+"value":1.5,
+"char":"None"
+},
+{
+"name": "Annoyed",
+"Type":"Emoji",
+"frame": 46,
+"keyShap":"key",
+"value":1.5,
+"char":"None"
+},
+{
+"name": "Nervous",
+"Type":"Emoji",
+"frame": 47,
+"keyShap":"key",
+"value":1.5,
+"char":"None"
+},
+{
+"name": "Curious",
+"Type":"Emoji",
+"frame": 48,
+"keyShap":"key",
+"value":1.5,
+"char":"None"
+},
+{
+"name": "Proud",
+"Type":"Emoji",
+"frame": 49,
+"keyShap":"key",
+"value":1.5,
+"char":"None"
+},
+{
+"name": "Relieved",
+"Type":"Emoji",
+"frame": 50,
+"keyShap":"key",
+"value":1.5,
+"char":"None"
+},
+{
+"name": "Lonely",
+"Type":"Emoji",
+"frame": 51,
+"keyShap":"key",
+"value":1.5,
+"char":"None"
+},
+{
+"name": "Jealous",
+"Type":"Emoji",
+"frame": 52,
+"keyShap":"key",
+"value":1.5,
+"char":"None"
+},
+{
+"name": "Frustrated",
+"Type":"Emoji",
+"frame": 53,
+"keyShap":"key",
+"value":1.5,
+"char":"None"
+},
+{
+"name": "Hopeful",
+"Type":"Emoji",
+"frame": 54,
+"keyShap":"key",
+"value":1.5,
+"char":"None"
+},
+{
+"name": "Amused",
+"Type":"Emoji",
+"frame": 55,
+"keyShap":"key",
+"value":1.5,
+"char":"None"
+},
+{
+"name": "Look up",
+"Type":"Emoji",
+"frame": 56,
+"keyShap":"key",
+"value":1.5,
+"char":"None"
+},
+{
+"name": "Look down",
+"Type":"Emoji",
+"frame": 58,
+"keyShap":"key",
+"value":1.5,
+"char":"None"
+},
+{
+"name": "Front",
+"Type":"Emoji",
+"frame": 59,
+"keyShap":"key",
+"value":1.5,
+"char":"None"
+},
+{
+"name": "Cold",
+"Type":"Emoji",
+"frame": 60,
+"keyShap":"key",
+"value":1.5,
+"char":"None"
+}
+]
